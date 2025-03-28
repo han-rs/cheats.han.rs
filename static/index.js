@@ -138,6 +138,11 @@ function toggle_night_mode() {
     set_body_night_mode(night_mode);
 }
 
+// Delete persist setting of night mode in localStorage.
+function clear_night_mode_setting() {
+    storage_remove("night-mode");
+}
+
 // Called by toggle button, enable or disable ligatures persist setting in localStorage.
 function toggle_ligatures() {
     let body = document.getElementsByTagName("body")[0];
@@ -269,6 +274,10 @@ function expand_all() {
     }
 }
 
+// Delete something from local storage
+function storage_remove(key) {
+    !!localStorage && localStorage.removeItem(key)
+}
 
 // Sets something to local storage.
 function storage_set(key, value) {
