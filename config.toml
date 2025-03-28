@@ -1,4 +1,4 @@
 # The URL the site will be built for
-base_url = "https://cheats.rs"
-title = "Rust Language Cheat Sheet"
+base_url = "https://cheats.han.rs"
+title = "Rust 语言速查"
 compile_sass = true

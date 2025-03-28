@@ -9,13 +9,13 @@ weight = 100
 
 ## Hosting
 
-The _Operator_ and _Privacy_ sections only apply to the site [**cheats.rs**](https://cheats.rs), not if you reached this work by other means.
+The _Operator_ and _Privacy_ sections only apply to the site [**cheats.han.rs**](https://cheats.han.rs), not if you reached this work by other means.
 
 ### Operator
 
 <!-- NOTICE - THIS SECTION IS NOT COVERED BY CC- OR ANY OTHER LICENSE -->
 
-Ralf Biedert (<a href="mailto:webmaster@cheats.rs">mail</a>, <a href="https://xr.io">web</a>)
+Hantong Chen (<a href="https://github.com/cxw620">github</a>)
 
 <!-- END NOTICE -->
 
@@ -72,6 +72,7 @@ We do our best to keep things correct, but no warranty is given any information 
 
 Feel free to use [**this issue tracker**](https://github.com/ralfbiedert/cheats.rs/issues) to submit improvements.
 
+对于译文问题, 请在 [**这里**](https://github.com/han-rs/cheats.han.rs/issues) 交流.
 
 ## Trademark Information
 

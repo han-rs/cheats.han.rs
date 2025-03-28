@@ -10897,13 +10897,15 @@ Online services which provide information or tooling.
 
 ## Printing & PDF
 
-> Want this Rust cheat sheet as a PDF? Download the <a href="https://cheats.rs/dl/rust_cheat_sheet_a4.pdf"><b>latest PDF here (A4)</b></a> and in <a href="https://cheats.rs/dl/rust_cheat_sheet_letter.pdf"><b>Letter</b></a>. Alternatively, generate it yourself via <i>File > Print</i> and then "Save as PDF" (works great in Chrome, has some issues in Firefox).
+> Want this Rust cheat sheet as a PDF? Generate it yourself via <i>File > Print</i> and then "Save as PDF" (works great in Chrome, has some issues in Firefox).
 
 </noprint>
 
 <footer>
 
-[Ralf Biedert](https://xr.io), {{ year() }} &mdash; [cheats.rs](https://cheats.rs)
+Translated and hosted by [Hantong Chen](https://github.com/cxw620) (based on [cheats.rs](https://cheats.rs)), {{ year() }} &mdash; [cheats.han.rs](https://cheats.han.rs)
+
+Special thanks: [Ralf Biedert](https://xr.io)
 
 <noprint>
 

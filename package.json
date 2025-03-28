@@ -1,5 +1,5 @@
 {
-  "name": "cheats.rs",
+  "name": "cheats.han.rs",
   "scripts": {
     "posthtml": "cd public && npx posthtml -c ../.posthtmlrc && node ../scripts/postprocess.js",
     "pdf": "node ./scripts/pdf.js"

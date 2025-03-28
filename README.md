@@ -1,21 +1,32 @@
+# ![Logo](/static/logo.png) Rust 语言速查 (Rust Language Cheat Sheet)
 
-
-# ![Logo](/static/logo.png) Rust Language Cheat Sheet
-
-[![Read Online](/gfx/button_read-online2.png)](https://cheats.rs)
-[![PDF](/gfx/button_cached-pdf2.png)](https://cheats.rs/dl/rust_cheat_sheet_a4.pdf)
+[![Read Online](/gfx/button_read-online2.png)](https://cheats.han.rs)
 
 **A single-page Rust resource for people who like high information density.**
+
+**为喜爱高信息密度人群打造的单页 Rust 资源**
 
 Use cases, in order of priority:
 * **identification & lookup guide** for constructs encountered in code,
 * **discover** parts of the language you might not know,
 * **learn about Rust** if you have prior programming experience.
 
+用例, 按优先级排序:
+* 遇到**陌生**用法, 查一查.
+* 想要**深入**学习, 查一查
+* 想要**入门**Rust, 查一查.
 
-# Building
+# 翻译说明
+
+尚未完成中文翻译, 暂时推送的是预览版本.
+
+如果帮到了你, 还请 Star 一下~
+
+# Building | 构建
 
 Built with [Zola](https://www.getzola.org/), the static site generator written in Rust. See [`.zolaversion`](.zolaversion) for the exact version the official site was deployed with. To develop locally download the indicated version, then run:
+
+基于 [Zola](https://www.getzola.org/) 构建, 这是一个用 Rust 编写的静态网站生成器. 查看 [`.zolaversion`](.zolaversion) 文件获取官网部署时使用的确切版本. 若需本地开发, 请下载指定版本后运行:
 
 ```
 zola serve
@@ -24,6 +35,8 @@ zola serve
 
 
 # Contributing
+
+译者水平有限, 翻译可能存在词不达意, 欢迎提 Issue 批评指正.
 
 Contributions are welcome and you can PR bug fixes directly. If you somehow ended up here but prefer not to use Github write to [webmaster@cheats.rs](mailto:webmaster@cheats.rs), or use the on-site buttons.
 
@@ -54,5 +67,7 @@ Answers to frequently asked questions can [be found here](content/faq.md).
 
 
 # Legal & License
+
+中文译文版权遵照原文授权.
 
 Please [see here](content/legal.md) for details.
